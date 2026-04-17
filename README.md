@@ -78,3 +78,5 @@ student_manager/
 Name: mohd suhail
 Course: B.Tech IT  
 Project Type: Internship Task (python intern)
+
+<!-- Failed to upload "Screen Recording 2026-04-17 231845.mp4" -->
